@@ -5,5 +5,5 @@ My Vue Js learning project. Step by step there are vuejs learning lessons. Each 
 I found these lessons from the source link below.
 
 
-# [Lesson Source](https://github.com/BomBoch/turkcekaynaklar-com#vuejs)<br>
+# [Source of the Courses](https://github.com/BomBoch/turkcekaynaklar-com#vuejs)<br>
 # [Video PlayList Link ](https://www.youtube.com/playlist?list=PLa3NvhdFWNipwk1KXeUpVQnAiAfuBw4El)
